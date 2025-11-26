@@ -10,12 +10,7 @@ Guntur, India
 - PCR, microbial analysis, lac operon (my favorite from MSc)
 
 ### Little tools I made (growing slowly)
-| Script                          | What it does                          |
-|---------------------------------|----------------------------------------|
-| DNA Base Counter                | Counts A, T, G, C in any sequence      |
-| Sickle Cell Mutation Checker    | Detects Glu → Val change in HBB gene   |
-| Protein Translator              | DNA → Amino acid sequence              |
-| Lac Operon Simulator            | Simple on/off logic with lactose       |
+| DNA Base Counter                | Counts A, T, G, C in any sequence      | [view](dna-counter.py) |
 
 *(new ones appear whenever I learn something new)*
 
